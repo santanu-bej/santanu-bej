@@ -30,10 +30,10 @@
 
 ** Connect with me:**
 
-* **Email:** [Your Email Address]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Twitter:** @DevStack06
-* **YouTube:** [Your YouTube Channel URL]
+* **Email:** santanubej8@gmail.com
+* **LinkedIn:** 
+* **Twitter:** 
+* **YouTube:** 
 
 ** Contributions:**
 
