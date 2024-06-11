@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DevStack06.DevStack06&color=00cf00)
 [![Instagram Badge](https://img.shields.io/badge/-DevStack06-yellow?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/devstack06/)](https://www.instagram.com/devstack06/)
 
-##  Welcome to [Your Name]'s GitHub Profile!
+##  Welcome to Santanu's GitHub Profile!
 
 ** I'm a passionate software developer** with a knack for building captivating and functional web and mobile applications. My journey began with the thrill of exploring new technologies, and I'm constantly driven to expand my skillset and tackle exciting challenges.
 
